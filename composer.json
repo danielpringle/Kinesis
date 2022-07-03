@@ -1,0 +1,12 @@
+{
+    "name": "dpuk/nachalo",
+    "description": "Main parent theme framework",
+    "type": "wordpress-theme",
+    "authors": [
+        {
+            "name": "Daniel Pringle",
+            "email": "dan@danielpringle.co.uk"
+        }
+    ],
+    "require": {}
+}
